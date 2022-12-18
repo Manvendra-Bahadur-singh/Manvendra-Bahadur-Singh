@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Manvendra Bahadur Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -12,7 +11,7 @@
 
 - 📫 How to reach me **mannu917049@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/amarjeet-kumar-46b79b236/](https://www.linkedin.com/in/amarjeet-kumar-46b79b236/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/manvendra-bahadur-singh-230352216](https://www.linkedin.com/in/manvendra-bahadur-singh-230352216)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manvendra-bahadur-singh&show_icons=true&locale=en" alt="manvendra-bahadur-singh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manvendra-bahadur-singh&" alt="manvendra-bahadur-singh" /></p>
-
-
