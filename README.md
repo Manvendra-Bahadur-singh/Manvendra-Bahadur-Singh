@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://fanciful-selkie-b42fde.netlify.app/](https://fanciful-selkie-b42fde.netlify.app/)
+- 👨‍💻Portfolio link [https://fanciful-selkie-b42fde.netlify.app/](https://fanciful-selkie-b42fde.netlify.app/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,tcp/ip,Routing,**
 
